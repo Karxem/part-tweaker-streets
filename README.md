@@ -38,7 +38,3 @@ Part Tweaker Streets is a mod for BMX Streets that allows players to customize a
 4. Make changes to the code as needed.
 5. Build the project.
 6. Copy the generated DLL file to the game's mod directory.
-
-## License
-
-This project is licensed under the [MIT License](link-to-license).
