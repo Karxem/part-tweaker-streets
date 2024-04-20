@@ -28,11 +28,11 @@ Part Tweaker Streets is a mod for BMX Streets that allows players to customize a
 
 ### Prerequisites
 
-- [Visual Studio](link-to-visual-studio) or [JetBrains Rider](link-to-rider) for C# development.
+- [Visual Studio](https://visualstudio.microsoft.com/de/downloads/) or another IDE for C# development.
 
 ### Building from Source
 
-1. Clone the repository: `git clone https://github.com/your-username/part-tweaker-streets.git`
+1. Clone the repository: `git clone https://github.com/Karxem/part-tweaker-streets.git`
 2. Open the solution in your preferred IDE.
 3. Add the neccessary Assembly files
 4. Make changes to the code as needed.
