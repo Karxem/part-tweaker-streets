@@ -13,7 +13,7 @@ Part Tweaker Streets is a mod for BMX Streets that allows players to customize a
 
 ## Installation
 
-1. Download the latest release from the [Releases](link-to-releases) page.
+1. Download the latest release from the [Releases](https://github.com/Karxem/part-tweaker-streets/releases/tag/v1.1.4) page.
 2. Extract the contents of the ZIP file into the game's mod directory.
 3. Launch the game and enable the mod in the mod menu.
 
