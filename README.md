@@ -1,6 +1,6 @@
 # Part Tweaker Streets
 
-Part Tweaker Streets is a mod for BMX Streets that allows players to customize and tweak various parts of their bmx bike.
+Part Tweaker Streets is a mod for BMX Streets that allows players to customize and tweak various parts of their bmx.
 
 ## Features
 
